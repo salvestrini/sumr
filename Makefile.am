@@ -33,7 +33,7 @@ SUBDIRS =					\
 ##     Options listed in AUTOMAKE_OPTIONS variable are applied on a
 ##     per-`Makefile' basis.
 ##
-AUTOMAKE_OPTIONS = check-news
+#AUTOMAKE_OPTIONS = check-news
 
 ##
 ## NOTE:
